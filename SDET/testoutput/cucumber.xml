@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="39.495">
+    <testcase classname="To validate the Upskill application features such as User registration, Compose email" name="_2" time="38.879">
+        <system-out><![CDATA[Given User must be able to navigate to the application URL..................passed
+When User must be able to signup on the application.........................passed
+Then User should be registered and must be able to login again..............passed
+]]></system-out>
+    </testcase>
+</testsuite>
